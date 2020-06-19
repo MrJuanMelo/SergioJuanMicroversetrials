@@ -1,0 +1,21 @@
+.project-title{
+    font-size: 26px;
+    color: darkblue;
+}
+
+@media (min-width: 650px) {
+    body {
+      background-color: lightgoldenrodyellow;
+      width: 90%
+    }
+  }
+
+ .sized-page{
+     height: 625px;
+ }
+
+ #navbar {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}​
